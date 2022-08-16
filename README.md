@@ -1,4 +1,4 @@
-<img src="photo-my-face.jpg" width="400px" />
+<img src="photo-of-my-face.jpg" width="400px" />
 
 ### Hi there, I'm Fazel!
 
