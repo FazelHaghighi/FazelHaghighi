@@ -24,7 +24,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ``` 
 ## Languages/Frameworks and Tools I am learning💻 
 
-  - Python <img align="center" alt="Fazel-Python" height="30" width="40" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
+  - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   - Django
   <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Djano REST Framework 
