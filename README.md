@@ -1,6 +1,6 @@
 ## Hi there, I'm Fazel! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" align="center" width="30">
   
-<img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="350" width="400" align="center" />
+<img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="345" width="400" align="center" />
 
 ``` 
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
@@ -15,14 +15,14 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   - Django <img align="center" width="70" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff">
-  <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Data Science <img align="center" width="100" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
   - Git <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
   - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
   - Linux <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
-## A little more about me <img height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
+## A little more about me <img align="center" height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
 
