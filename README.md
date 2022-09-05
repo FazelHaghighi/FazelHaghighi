@@ -3,6 +3,7 @@
 <img src="photo-of-me.jpg" width="400" align="center" />
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="350" width="400" align="center" />
 
+<h3>
 ``` 
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
