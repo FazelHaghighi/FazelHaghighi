@@ -12,7 +12,7 @@
 
 Hi there, I'm Fazel! 
 <br> 
-<img src=photo-of-me.jpg" width="400px" />
+<img src="photo-of-me.jpg" width="400px" />
 
 </h3> 
 
