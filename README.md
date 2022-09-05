@@ -28,8 +28,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - Django
   - Djano REST Framework 
   - Data Science  
-  - Git 
-
+  - Git <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 ## Some facts about me 👨🏻‍💻 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
@@ -38,7 +37,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 - I'm studying Computer Engineering right now and trying to improve my skills. 💻 
 
-## My data on Github 
+## My data on Github <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 <div align="center">
   <a href="https://github.com/FazelHaghighi">
