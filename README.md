@@ -28,7 +28,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - Django
   <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Djano REST Framework 
-  - Data Science <img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
+  - Data Science <img align="center" width="70" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
   - Git <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 ## Some facts about me 👨🏻‍💻 
 
