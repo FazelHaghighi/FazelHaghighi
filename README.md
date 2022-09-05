@@ -1,6 +1,6 @@
 ## Hi there, I'm Fazel! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" align="center" width="30">
   
-<img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="345" width="400" align="center" />
+<img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="347" width="400" align="center" />
 
 ``` 
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
@@ -11,7 +11,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 <a href="mailto:fazel.haghighi1399@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" width="30"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/pingpongplayer" target="_blank"><img align="center" width="70" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
-## Languages/Frameworks and Tools I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
+## Languages/Frameworks and Technologies I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   - Django <img align="center" width="70" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff">
