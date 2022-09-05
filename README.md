@@ -24,7 +24,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 ## A little more about me <img align="center" height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
-- I'm currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+- I'm currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="45">
 
 - I love to know new things, work in groups and get new experiences. <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> 
 
