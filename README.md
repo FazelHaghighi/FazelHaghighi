@@ -22,7 +22,7 @@ Hi there, I'm Fazel!
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
 ``` 
-## Languages/Frameworks and Tools I am learning💻 
+## Languages/Frameworks and Tools I am learning <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" />
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   - Django
