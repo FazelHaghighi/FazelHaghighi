@@ -4,17 +4,14 @@
 
 <hr>
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://github.com/FazelHaghighi)](https://t.me/pingpongplayer)
- <a href = "mailto:fazel.haghighi1399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FazelHaghighi)](https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234)
-
 </h4>
 
 <h3 align="center">  <br>
 
 Hi there, I'm Fazel! 
 <br> 
-<img src="photo-of-me.jpg" width="400px" />
+<img src="photo-of-me.jpg" width="400" align="center" />
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="400" align="center" />
 
 </h3> 
 
@@ -37,6 +34,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
   - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
   - Linux <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
 ## A little more about me <img height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
