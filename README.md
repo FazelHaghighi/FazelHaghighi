@@ -36,9 +36,9 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
 
-- I love to know new things, work in groups and get new experiences. <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> 
+- I love to know new things, work in groups and get new experiences. <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" /> 
 
-- I'm studying Computer Engineering right now and trying to improve my skills. 💻 
+- I'm studying Computer Engineering right now and trying to improve my skills. <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" /> 
 
 ## My data on GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
 
