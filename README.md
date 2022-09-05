@@ -38,11 +38,9 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 ## My data on Github 
 
-<!-- <span style="height "> 
-![Fazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=tokyonight) 
-< /span> --> 
-
-![Fazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=tokyonight) 
-[![FazelHaghighi](https://github-readme -stats.vercel.app/api/top-langs/?username=FazelHaghighi&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/FazelHaghighi/) 
-<!-- ![Top Langs](https ://github-readme-stats.vercel.app/api/top-langs/?username=FazelHaghighi&layout=compact&theme=tokyonight) --> 
+<div align="center">
+  <a href="https://github.com/FazelHaghighi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazelHaghighi&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
