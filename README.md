@@ -22,7 +22,7 @@ Hi there, I'm Fazel!
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
 ``` 
-## Languages/Frameworks and Tools I am learning/using <img lign="center" height="30" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
+## Languages/Frameworks and Tools I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   - Django
@@ -32,7 +32,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - Git <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
   - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
-## A little more about me <img align="center" height="30" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
+## A little more about me <img align="center" height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
 
