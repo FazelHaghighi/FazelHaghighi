@@ -22,6 +22,9 @@ Hi there, I'm Fazel!
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
 ``` 
+## How to reach me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
+<a href="https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
+
 ## Languages/Frameworks and Tools I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
