@@ -30,8 +30,8 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - Djano REST Framework 
   - Data Science <img align="center" width="100" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
   - Git <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  - GitHub <img align="center" height="30" width="30" src="https://little.kylerconway.com/images/golang-what.gif" width="30">
-  - Visual Studio Code <img align="center" height="30" width="30" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+  - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
+  - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
 ## Some facts about me 👨🏻‍💻 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
@@ -40,7 +40,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 - I'm studying Computer Engineering right now and trying to improve my skills. 💻 
 
-## My data on GitHub <img align="center" height="30" width="30" src="https://little.kylerconway.com/images/golang-what.gif" width="30">
+## My data on GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
 
 <div align="center">
   <a href="https://github.com/FazelHaghighi">
