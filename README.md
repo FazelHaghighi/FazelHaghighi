@@ -23,7 +23,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ## Technologies I am currently learning 💻 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  - Django <img align="center" alt="Fazel-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  - Django
   - Djano REST Framework 
   - Data Science  
   - Git 
