@@ -22,9 +22,9 @@ Hi there, I'm Fazel!
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
 ``` 
-## Languages/Frameworks and Tools I am learning to use💻 
+## Languages/Frameworks and Tools I am learning💻 
 
-  - Python <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp">
+  - Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="20">
   - Django
   <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Djano REST Framework 
