@@ -1,4 +1,4 @@
-## Hi there, I'm Fazel! <img align="center" width="75" src="https://little.kylerconway.com/images/golang-what.gif">
+## Hi there, I'm Fazel! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" align="center" width="30">
   
 <img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="347" width="400" align="center" />
 
