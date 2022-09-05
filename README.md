@@ -31,6 +31,9 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - Git <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
   - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
+  - Linux <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  - <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
 ## A little more about me <img height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
