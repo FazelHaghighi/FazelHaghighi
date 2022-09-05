@@ -4,7 +4,7 @@
 
 <hr>
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/FazelHaghighi)](https://t.me/pingpongplayer)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://github.com/FazelHaghighi)](https://t.me/pingpongplayer)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FazelHaghighi)](https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234)
 </h4>
 
