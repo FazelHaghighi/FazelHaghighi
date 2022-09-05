@@ -6,6 +6,8 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://github.com/FazelHaghighi)](https://t.me/pingpongplayer)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FazelHaghighi)](https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234)
+<a href = "mailto:fazel.haghighi1399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </h4>
 
 <h3 align="center">  <br>
