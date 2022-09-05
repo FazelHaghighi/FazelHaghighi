@@ -1,17 +1,9 @@
-<h4 align="center">
- 
- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="400"/>
-
-<hr>
-
-</h4>
-
 <h3 align="center">  <br>
 
 Hi there, I'm Fazel! 
 <br> 
 <img src="photo-of-me.jpg" width="400" align="center" />
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="400" align="center" />
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="400" height"500" align="center" />
 
 </h3> 
 
