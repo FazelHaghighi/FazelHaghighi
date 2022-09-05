@@ -22,7 +22,7 @@ Hi there, I'm Fazel!
 Computer Engineering student at BNUT - Babol Noshirvani University of Technology, 
 I am all fascinated by technology and currently I am trying my best to become a data scientist. 
 ``` 
-## How to reach me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
+## How to reach me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" align="center" />
 <a href="https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234/" target="_blank"><img align="center" width="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"> </a>&nbsp;&nbsp;
 <a href="mailto:fazel.haghighi1399@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" width="30"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/pingpongplayer" target="_blank"><img align="center" width="70" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
@@ -37,7 +37,6 @@ I am all fascinated by technology and currently I am trying my best to become a 
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
   - Visual Studio Code <img align="center" height="30" width="30" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
   - Linux <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
 ## A little more about me <img height="50" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
