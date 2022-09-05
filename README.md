@@ -4,6 +4,8 @@
 
 <hr>
 
+## How to reach me 📫
+
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://github.com/FazelHaghighi)](https://t.me/pingpongplayer)
  <a href = "mailto:fazel.haghighi1399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FazelHaghighi)](https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234)
@@ -25,7 +27,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ## Technologies I am currently learning 💻 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  - Django
+  - Django [![Django Badge](https://img.shields.io/badge/-Django?style=for-the-badge&logo=Django&logoColor=white&link=https://github.com/FazelHaghighi)]
   - Djano REST Framework 
   - Data Science  
   - Git <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
