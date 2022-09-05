@@ -42,8 +42,8 @@ I am all fascinated by technology and currently I am trying my best to become a 
 <div align="center">
   <a href="https://github.com/FazelHaghighi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 
 </a> 
  
