@@ -32,6 +32,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ## Some facts about me 👨🏻‍💻 
 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
+<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 
 - I love to know new things, work in groups and get new experiences. 😄 
 
