@@ -25,8 +25,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ## Languages/Frameworks and Tools I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
-  - Django [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
-  - <img align="center" width="30" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff">
+  - Django <img align="center" width="70" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff">
   <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Djano REST Framework 
   - Data Science <img align="center" width="100" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
