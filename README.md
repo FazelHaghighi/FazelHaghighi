@@ -26,6 +26,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   - Django
+  <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - Djano REST Framework 
   - Data Science  
   - Git <img align="center" alt="Fazel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -34,7 +35,6 @@ I am all fascinated by technology and currently I am trying my best to become a 
 - I am currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) 
 
 - I love to know new things, work in groups and get new experiences. 😄 
-<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 
 - I'm studying Computer Engineering right now and trying to improve my skills. 💻 
 
