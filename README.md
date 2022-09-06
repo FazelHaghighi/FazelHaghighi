@@ -14,7 +14,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ## Languages/Frameworks and Technologies I am learning/using <img lign="center" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/dev-cat.webp"> 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/python.webp">
-  - Django <img align="center" width="70" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/-Django-092E20_2.png">
+  - Django <img align="center" width="60" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/-Django-092E20_2.png">
   - Data Science <img align="center" width="100" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/datascience.png">
   - Git <img align="center" height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/git-original.png">
   <img width="15%" align="right" alt="Github Image" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linux_rounded.gif?raw=true" /><br>
