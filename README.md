@@ -15,7 +15,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
   - Python <img align="center" alt="Fazel-Python" height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/python.webp">
   - Django <img align="center" width="70" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff">
-  - Data Science <img align="center" width="100" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg">
+  - Data Science <img align="center" width="100" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/datascience.png">
   - Git <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
   - GitHub <img align="center" height="30" width="30" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
