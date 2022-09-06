@@ -8,7 +8,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
 ``` 
 ## How to reach me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" align="center" />
 <a href="https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234/" target="_blank"><img align="center" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linkedin.png?raw=true"> </a>&nbsp;&nbsp;
-<a href="mailto:fazel.haghighi1399@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" width="30"/> </a>&nbsp;&nbsp;
+<a href="mailto:fazel.haghighi1399@gmail.com"> <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/gmail.png" align="center" width="30"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/pingpongplayer" target="_blank"><img align="center" width="70" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 ## Languages/Frameworks and Technologies I am learning/using <img lign="center" width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
