@@ -38,6 +38,6 @@ I am all fascinated by technology and currently I am trying my best to become a 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazelHaghighi&layout=compact&langs_count=7&theme=dracula"/>
  
-   ![FazelHaghighi Snake animation](https://github.com/FazelHaghighi/FazelHaghighi/blob/output/github-contribution-grid-snake.svg)
+   ![FazelHaghighi snake gif](https://github.com/FazelHaghighi/FazelHaghighi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
