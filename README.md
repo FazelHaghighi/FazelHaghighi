@@ -22,6 +22,7 @@ I am all fascinated by technology and currently I am trying my best to become a 
   <img width="15%" align="right" alt="Github Image" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linux_rounded.gif?raw=true" /><br>
 - GitHub <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/github.webp">
 - Visual Studio Code <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/vs.webp">
+- Linux <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linux-original.png">
 
 ## A little more about me <img height="50" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/astro-cat.webp">
 
