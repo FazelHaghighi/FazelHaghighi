@@ -26,8 +26,6 @@ I am all fascinated by technology and currently I am trying my best to become a 
 
 ## A little more about me <img height="50" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/astro-cat.webp">
 
-- I'm currently working in a friendly organization named Cein Company. [:link:](https://github.com/Cein-Company) <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/colleagues.webp" width="45">
-
 - I love to learn new things, work in groups and get new experiences. <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/hyperkitty.gif?raw=true" width="20"/>
 
 - I'm studying Computer Engineering right now and trying to improve my skills. <img alt="GIF" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/Developer.gif" width="30"/>
