@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="media/cool.gif" height="250">
-  
   <h1>MohammadFazel Abdhaghighi</h1>
   <p>Computer Engineer & Neuroscience Enthusiast</p>
+
+  <img src="media/cool.gif" height="250">
 </div>
 
 ### <img src="media/dev_cat.webp" width="28" align="center"> About Me
@@ -19,8 +19,8 @@ I like using math and code to figure out how complex systems work. I am comforta
 
 If you want to chat about research or just connect, feel free to reach out:
 
-*   <img src="media/LinkedIn.png" width="20" align="center"> [LinkedIn](https://www.linkedin.com/in/mohammadfazel-abdhaghighi/)
 *   <img src="media/Email.png" width="20" align="center"> [Email](mailto:fazel.haghighi1399@gmail.com)
+*   <img src="media/linkedin.png" width="20" align="center"> [LinkedIn](https://www.linkedin.com/in/mohammadfazel-abdhaghighi/)
 *   <img src="media/Telegram.png" width="20" align="center"> [Telegram](https://t.me/GitTheForkOffMe)
 
 ---
