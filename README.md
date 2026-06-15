@@ -1,42 +1,38 @@
-## Hi there, I'm Fazel! <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/hedgehog.webp" width="30">
+<div align="center">
+  <img src="media/cool.gif" height="250">
+  
+  <h1>MohammadFazel Abdhaghighi</h1>
+  <p>Computer Engineer & Neuroscience Enthusiast</p>
+</div>
 
-<img src="photo-of-me.jpg" width="400" align="center" /> &nbsp;
-<img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/cool.gif" height="347" width="400" align="center" />
+### <img src="media/dev_cat.webp" width="28" align="center"> About Me
 
-```
-Computer Engineering student at BNUT - Babol Noshirvani University of Technology,
-I am all fascinated by technology and currently I am trying my best to become a data scientist.
-```
+I like using math and code to figure out how complex systems work. I am comfortable working with any form of data, but I mostly enjoy the research process itself.
 
-## How to reach me <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/letterbox.gif?raw=true" width="25"/>
+### <img src="media/brain.gif" width="28" align="center"> Research Focus
 
-<a href="https://www.linkedin.com/in/mohammadfazel-abdhaghighi-33912a234/" target="_blank"><img width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linkedin.png?raw=true"> </a>&nbsp;
-<a href="mailto:fazel.haghighi1399@gmail.com"> <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/gmail.png" width="30"/> </a>&nbsp;
-<a href="https://t.me/GitTheForkOffMe" target="_blank"><img width="70" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/-Telegram-blue.png"> </a>
+*   **Computational Neuroscience:** Modeling neural data, brain-computer interfaces, and cognitive systems.
+*   **Machine Learning:** Graph Neural Networks (GNNs), deep learning, and predictive modeling.
+*   **Data Science:** Working with high-dimensional data like EEG signals to extract patterns.
 
-## Languages/Frameworks and Technologies I am learning/using <img width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/dev-cat.webp">
+### <img src="media/mail_box.gif" width="28" align="center"> Get in Touch
 
-- Python <img alt="Fazel-Python" height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/python.webp">
-- Data Science <img width="100" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/datascience.png">
-- Git <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/git-original.png">
-  <img width="15%" align="right" alt="Github Image" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linux_rounded.gif?raw=true" /><br>
-- GitHub <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/github.webp">
-- Visual Studio Code <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/vs.webp">
-- Linux <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/linux-original.png">
+If you want to chat about research or just connect, feel free to reach out:
 
-## A little more about me <img height="50" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/astro-cat.webp">
+*   <img src="media/LinkedIn.png" width="20" align="center"> [LinkedIn](https://www.linkedin.com/in/mohammadfazel-abdhaghighi/)
+*   <img src="media/Email.png" width="20" align="center"> [Email](mailto:fazel.haghighi1399@gmail.com)
+*   <img src="media/Telegram.png" width="20" align="center"> [Telegram](https://t.me/GitTheForkOffMe)
 
-- I love to learn new things, work in groups and get new experiences. <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/hyperkitty.gif?raw=true" width="20"/>
+---
 
-- I'm studying Computer Engineering right now and trying to improve my skills. <img alt="GIF" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/Developer.gif" width="30"/>
+### <img src="media/stats.gif" width="28" align="center"> GitHub Activity
 
-## My data on GitHub <img height="30" width="30" src="https://github.com/FazelHaghighi/FazelHaghighi/blob/main/media/github.webp">
+*Since my focus has shifted more toward research, my commit history might be a bit quieter these days.*
 
 <div align="center">
   <a href="https://github.com/FazelHaghighi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazelHaghighi&layout=compact&langs_count=7&theme=dracula"/>
-
-![FazelHaghighi snake gif](https://github.com/FazelHaghighi/FazelHaghighi/blob/output/github-contribution-grid-snake.svg)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=FazelHaghighi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <br>
+  <img src="https://github.com/FazelHaghighi/FazelHaghighi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
